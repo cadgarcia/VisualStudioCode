@@ -1,0 +1,2 @@
+https://docs.microsoft.com/pt-br/visualstudio/mac/keyboard-shortcuts?view=vsmac-2019
+https://alvarezsolucoesdigitais.com/programacao/20-atalhos-de-vs-code-para-codificacao-mais-rapida/
